@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <supermercado_1>
+    <nombre>Mercadona</nombre>
+    <direccion>Carrer de Olesa, 30, 08027 Barcelona</direccion>
+    <geolocalizacion>41.4209871, 2.1830130</geolocalizacion>
+    <productos>
+      <nombre>Huevos enteros</nombre>
+      <marca>HACENDADO</marca>
+      <PVP>$2,00</PVP>
+      <perecedero>true</perecedero>
+      <unidades>1</unidades>
+      <unidadesdeMedida>12u</unidadesdeMedida>
+      <oferta>false</oferta>
+      <compraHabitual>true</compraHabitual>
+      <adquirido>true</adquirido>
+      <fechaEntrada>27/03/23 18:00</fechaEntrada>
+    </productos>
+    <productos>
+      <nombre>Leche liquida entera sin lactosa</nombre>
+      <marca>HACENDADO</marca>
+      <PVP>$0,99</PVP>
+      <perecedero>true</perecedero>
+      <unidades>3</unidades>
+      <unidadesdeMedida>1L</unidadesdeMedida>
+      <oferta>false</oferta>
+      <compraHabitual>true</compraHabitual>
+      <adquirido>true</adquirido>
+      <fechaEntrada>27/03/23 18:00</fechaEntrada>
+    </productos>
+    <productos>
+      <nombre>Arroz largo</nombre>
+      <marca>HACENDADO</marca>
+      <PVP>$1,30</PVP>
+      <perecedero>false</perecedero>
+      <unidades>1</unidades>
+      <unidadesdeMedida>1kg</unidadesdeMedida>
+      <oferta>false</oferta>
+      <compraHabitual>false</compraHabitual>
+      <adquirido>true</adquirido>
+      <fechaEntrada>27/03/23 18:00</fechaEntrada>
+    </productos>
+    <productos>
+      <nombre>Café molido natural</nombre>
+      <marca>MARCILLA</marca>
+      <PVP>$3,20</PVP>
+      <perecedero>false</perecedero>
+      <unidades>1</unidades>
+      <unidadesdeMedida>250g</unidadesdeMedida>
+      <oferta>false</oferta>
+      <compraHabitual>false</compraHabitual>
+      <adquirido>true</adquirido>
+      <fechaEntrada>27/03/23 18:00</fechaEntrada>
+    </productos>
+    <productos>
+      <nombre>Pollo entero fresco</nombre>
+      <marca>HACENDADO</marca>
+      <PVP>$3,25/kg</PVP>
+      <perecedero>true</perecedero>
+      <unidades>1</unidades>
+      <unidadesdeMedida>2.5kg</unidadesdeMedida>
+      <oferta>false</oferta>
+      <compraHabitual>true</compraHabitual>
+      <adquirido>true</adquirido>
+      <fechaEntrada>27/03/23 18:00</fechaEntrada>
+    </productos>
+    <productos>
+      <nombre>Pan en rebanadas</nombre>
+      <marca>HACENDADO</marca>
+      <PVP>$1,25</PVP>
+      <perecedero>true</perecedero>
+      <unidades>1</unidades>
+      <unidadesdeMedida>820gr</unidadesdeMedida>
+      <oferta>false</oferta>
+      <compraHabitual>true</compraHabitual>
+      <adquirido>true</adquirido>
+      <fechaEntrada>27/03/23 18:00</fechaEntrada>
+    </productos>
+    <productos>
+      <nombre>Queso tierno en lonchas</nombre>
+      <marca>ENTREPINARES</marca>
+      <PVP>$9,17/kg</PVP>
+      <perecedero>true</perecedero>
+      <unidades>1</unidades>
+      <unidadesdeMedida>200g</unidadesdeMedida>
+      <oferta>false</oferta>
+      <compraHabitual>true</compraHabitual>
+      <adquirido>true</adquirido>
+      <fechaEntrada>27/03/23 18:00</fechaEntrada>
+    </productos>
+    <productos>
+      <nombre>Atún en lata en aceite de Girasol</nombre>
+      <marca>HACENDADO</marca>
+      <PVP>$4,60</PVP>
+      <perecedero>false</perecedero>
+      <unidades>1</unidades>
+      <unidadesdeMedida>6x60g</unidadesdeMedida>
+      <oferta>false</oferta>
+      <compraHabitual>false</compraHabitual>
+      <adquirido>true</adquirido>
+      <fechaEntrada>27/03/23 18:00</fechaEntrada>
+    </productos>
+  </supermercado_1>

@@ -1,0 +1,311 @@
+{
+  "supermercado 1": {
+    "nombre": "Mercadona",
+    "direccion": "Carrer d'Olesa, 30, 08027 Barcelona",
+    "geolocalizacion": "41.4209871, 2.1830130",
+    "productos": [
+      {
+        "nombre": "Huevos enteros",
+        "marca": "HACENDADO",
+        "PVP": "$2,00",
+        "perecedero": true,
+        "unidades": "1",
+        "unidadesdeMedida": "12u",
+        "oferta": false,
+        "compraHabitual": true,
+        "adquirido": true,
+        "fechaEntrada": "27/03/23 18:00"
+      },
+      {
+        "nombre": "Leche liquida entera sin lactosa",
+        "marca": "HACENDADO",
+        "PVP": "$0,99",
+        "perecedero": true,
+        "unidades": "3",
+        "unidadesdeMedida": "1L",
+        "oferta": false,
+        "compraHabitual": true,
+        "adquirido": true,
+        "fechaEntrada": "27/03/23 18:00"
+      },
+      {
+        "nombre": "Arroz largo",
+        "marca": "HACENDADO",
+        "PVP": "$1,30",
+        "perecedero": false,
+        "unidades": "1",
+        "unidadesdeMedida": "1kg",
+        "oferta": false,
+        "compraHabitual": false,
+        "adquirido": true,
+        "fechaEntrada": "27/03/23 18:00"
+      },
+      {
+        "nombre": "Café molido natural",
+        "marca": "MARCILLA",
+        "PVP": "$3,20",
+        "perecedero": false,
+        "unidades": "1",
+        "unidadesdeMedida": "250g",
+        "oferta": false,
+        "compraHabitual": false,
+        "adquirido": true,
+        "fechaEntrada": "27/03/23 18:00"
+      },
+      {
+        "nombre": "Pollo entero fresco",
+        "marca": "HACENDADO",
+        "PVP": "$3,25/kg",
+        "perecedero": true,
+        "unidades": "1",
+        "unidadesdeMedida": "2.5kg",
+        "oferta": false,
+        "compraHabitual": true,
+        "adquirido": true,
+        "fechaEntrada": "27/03/23 18:00"
+      },
+      {
+        "nombre": "Pan en rebanadas",
+        "marca": "HACENDADO",
+        "PVP": "$1,25",
+        "perecedero": true,
+        "unidades": "1",
+        "unidadesdeMedida": "820gr",
+        "oferta": false,
+        "compraHabitual": true,
+        "adquirido": true,
+        "fechaEntrada": "27/03/23 18:00"
+      },
+      {
+        "nombre": "Queso tierno en lonchas",
+        "marca": "ENTREPINARES",
+        "PVP": "$9,17/kg",
+        "perecedero": true,
+        "unidades": "1",
+        "unidadesdeMedida": "200g",
+        "oferta": false,
+        "compraHabitual": true,
+        "adquirido": true,
+        "fechaEntrada": "27/03/23 18:00"
+      },
+      {
+        "nombre": "Atún en lata en aceite de Girasol",
+        "marca": "HACENDADO",
+        "PVP": "$4,60",
+        "perecedero": false,
+        "unidades": "1",
+        "unidadesdeMedida": "6x60g",
+        "oferta": false,
+        "compraHabitual": false,
+        "adquirido": true,
+        "fechaEntrada": "27/03/23 18:00"
+      }
+    ]
+  },
+  "supermercado 2 ": {
+    "nombre": "Carrefour",
+    "direccion": "Mercat del Guinardó, C. de Teodor Llorente, 10, 08041 Barcelona",
+    "geolocalizacion": "41.41918, 2.17879",
+    "productos": [
+      {
+        "nombre": "Huevos enteros",
+        "marca": "CARREFOUR BIO",
+        "PVP": "$2,75",
+        "perecedero": true,
+        "unidades": "1",
+        "unidadesdeMedida": "6u",
+        "oferta": false,
+        "compraHabitual": true,
+        "adquirido": false,
+        "fechaEntrada": "27/03/23 18:00"
+      },
+      {
+        "nombre": "Leche liquida entera sin lactosa",
+        "marca": "CARREFOUR",
+        "PVP": "$0,98",
+        "perecedero": true,
+        "unidades": "3",
+        "unidadesdeMedida": "1 L",
+        "oferta": false,
+        "compraHabitual": true,
+        "adquirido": false,
+        "fechaEntrada": "27/03/23 18:00"
+      },
+      {
+        "nombre": "Arroz categoria primera",
+        "marca": "CARREFOUR",
+        "PVP": "$1,60",
+        "perecedero": false,
+        "unidades": "1",
+        "unidadesdeMedida": "1kg",
+        "oferta": false,
+        "compraHabitual": false,
+        "adquirido": false,
+        "fechaEntrada": "27/03/23 18:00"
+      },
+      {
+        "nombre": "Café molido natural",
+        "marca": "CARREFOUR",
+        "PVP": "$3,19",
+        "perecedero": false,
+        "unidades": "1",
+        "unidadesdeMedida": "500g",
+        "oferta": false,
+        "compraHabitual": true,
+        "adquirido": false,
+        "fechaEntrada": "27/03/23 18:00"
+      },
+      {
+        "nombre": "Pollo entero",
+        "marca": "CARREFOUR BIO",
+        "PVP": "$11,59/kg",
+        "perecedero": true,
+        "unidades": "1",
+        "unidadesdeMedida": "2.5KG",
+        "oferta": false,
+        "compraHabitual": true,
+        "adquirido": false,
+        "fechaEntrada": "27/03/23 18:00"
+      },
+      {
+        "nombre": "Pan rebanado",
+        "marca": "BIMBO",
+        "PVP": "$2,45",
+        "perecedero": true,
+        "unidades": "1",
+        "unidadesdeMedida": "700g",
+        "oferta": false,
+        "compraHabitual": true,
+        "adquirido": false,
+        "fechaEntrada": "27/03/23 18:00"
+      },
+      {
+        "nombre": "Queso tierno en lonchas light",
+        "marca": "CARREFOUR",
+        "PVP": "$3,49",
+        "perecedero": true,
+        "unidades": "1",
+        "unidadesdeMedida": "200g",
+        "oferta": false,
+        "compraHabitual": true,
+        "adquirido": false,
+        "fechaEntrada": "27/03/23 18:00"
+      },
+      {
+        "nombre": "Atún en lata en aceite de Girasol",
+        "marca": "CARREFOUR",
+        "PVP": "$2,59",
+        "perecedero": false,
+        "unidades": "1",
+        "unidadesdeMedida": "3u",
+        "oferta": false,
+        "compraHabitual": false,
+        "adquirido": false,
+        "fechaEntrada": "27/03/23 18:00"
+      }
+    ]
+  },
+  "supermercado 3": {
+    "nombre": "Caprabo",
+    "direccion": "S.Antoni Mª Claret, 318, 08041 Barcelona",
+    "geolocalizacion": "41.41493, 2.17935",
+    "productos": [
+      {
+        "nombre": "Huevos M",
+        "marca": "EROSKI",
+        "PVP": "$2.00",
+        "perecedero": true,
+        "unidades": "1",
+        "unidadesdeMedida": "12u",
+        "oferta": false,
+        "compraHabitual": true,
+        "adquirido": false,
+        "fechaEntrada": "27/03/23 18:00"
+      },
+      {
+        "nombre": "Leche entera sin lactosa",
+        "marca": "EROSKI",
+        "PVP": "$0,98",
+        "perecedero": true,
+        "unidades": "3",
+        "unidadesdeMedida": "1L",
+        "oferta": false,
+        "compraHabitual": true,
+        "adquirido": false,
+        "fechaEntrada": "27/03/23 18:00"
+      },
+      {
+        "nombre": "Arroz Extra",
+        "marca": "EROSKI",
+        "PVP": "$1,30",
+        "perecedero": false,
+        "unidades": "1",
+        "unidadesdeMedida": "1kg",
+        "oferta": false,
+        "compraHabitual": false,
+        "adquirido": false,
+        "fechaEntrada": "27/03/23 18:00"
+      },
+      {
+        "nombre": "Café molido natural",
+        "marca": "MARCILLA",
+        "PVP": "$3,20",
+        "perecedero": false,
+        "unidades": "1",
+        "unidadesdeMedida": "250g",
+        "oferta": false,
+        "compraHabitual": false,
+        "adquirido": false,
+        "fechaEntrada": "27/03/23 18:00"
+      },
+      {
+        "nombre": "Pollo entero",
+        "marca": "EROSKI",
+        "PVP": "$3,25/kg",
+        "perecedero": true,
+        "unidades": "2",
+        "unidadesdeMedida": "2.5kg",
+        "oferta": false,
+        "compraHabitual": true,
+        "adquirido": false,
+        "fechaEntrada": "27/03/23 18:00"
+      },
+      {
+        "nombre": "Pan en rebanadas",
+        "marca": "BIMBO",
+        "PVP": "$2,55",
+        "perecedero": true,
+        "unidades": "1",
+        "unidadesdeMedida": "700g",
+        "oferta": false,
+        "compraHabitual": true,
+        "adquirido": false,
+        "fechaEntrada": "27/03/23 18:00"
+      },
+      {
+        "nombre": "Queso tierno en lonchas",
+        "marca": "EROSKI",
+        "PVP": "$1,83",
+        "perecedero": true,
+        "unidades": "1",
+        "unidadesdeMedida": "200g",
+        "oferta": false,
+        "compraHabitual": true,
+        "adquirido": false,
+        "fechaEntrada": "27/03/23 18:00"
+      },
+      {
+        "nombre": "Atún claro en aceitede de girasol",
+        "marca": "EROSKI",
+        "PVP": "$4,60",
+        "perecedero": false,
+        "unidades": "1",
+        "unidadesdeMedida": "6x80g",
+        "oferta": false,
+        "compraHabitual": false,
+        "adquirido": false,
+        "fechaEntrada": "27/03/23 18:00"
+      }
+    ]
+  }
+}
